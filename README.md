@@ -2,6 +2,6 @@
     /about/
     /book/
     /reservations/
-    /menu
+    /menu/
     /menu_item/<int:pk>/
     /bookings/
